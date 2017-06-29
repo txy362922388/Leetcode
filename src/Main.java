@@ -3,8 +3,8 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
-        Solution91 s = new Solution91();
-        String ss = "110";
-        System.out.println(s.numDecodings(ss));
+        Solution342 s = new Solution342();
+        //System.out.println(Math.pow(Integer.MAX_VALUE,0.25));
+        System.out.println(s.isPowerOfFour(1));
     }
 }
