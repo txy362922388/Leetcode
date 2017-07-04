@@ -1,10 +1,16 @@
 import java.util.List;
+import java.util.PriorityQueue;
 
 public class Main {
 
     public static void main(String[] args) {
-        Solution342 s = new Solution342();
+        Solution378 s = new Solution378();
         //System.out.println(Math.pow(Integer.MAX_VALUE,0.25));
-        System.out.println(s.isPowerOfFour(1));
+        //.out.println(s.hammingWeight(11));
+        //PriorityQueue<Integer> res = new PriorityQueue<>();
+        //res.offer(4);res.offer(1);res.offer(3);res.offer(2);
+        //System.out.println(res.toString());
+
+
     }
 }
