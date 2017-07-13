@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73e94035-28e5-4fc7-9fef-39ad19c4f8c2" name="Default" comment="update">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynamicProgramming/NumArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynamicProgramming/NumMatrix.java" />
+    <list default="true" id="73e94035-28e5-4fc7-9fef-39ad19c4f8c2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Leetcode/Main.class" afterPath="$PROJECT_DIR$/out/production/Leetcode/Main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -613,7 +611,7 @@
       <workItem from="1498724709718" duration="2596000" />
       <workItem from="1499089186283" duration="3945000" />
       <workItem from="1499153768741" duration="1565000" />
-      <workItem from="1499952934817" duration="191000" />
+      <workItem from="1499952934817" duration="208000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1499154771038</created>
@@ -622,11 +620,18 @@
       <option name="project" value="LOCAL" />
       <updated>1499154771038</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1499953137434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1499953137434</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27144000" />
+    <option name="totallyTimeSpent" value="27161000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
