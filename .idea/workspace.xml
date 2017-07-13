@@ -66,8 +66,8 @@
       <file leaf-file-name="Solution70.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/Solution70.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="240">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -624,7 +624,7 @@
       <workItem from="1498724709718" duration="2596000" />
       <workItem from="1499089186283" duration="3945000" />
       <workItem from="1499153768741" duration="1565000" />
-      <workItem from="1499952934817" duration="1317000" />
+      <workItem from="1499952934817" duration="1327000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1499154771038</created>
@@ -675,11 +675,18 @@
       <option name="project" value="LOCAL" />
       <updated>1499954217185</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1499954261089</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1499954261089</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28270000" />
+    <option name="totallyTimeSpent" value="28280000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1172,8 +1179,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DynamicProgramming/Solution70.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="240">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding />
         </state>
       </provider>
