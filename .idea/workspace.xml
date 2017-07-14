@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73e94035-28e5-4fc7-9fef-39ad19c4f8c2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Leetcode/Solution507.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Leetcode/Main.class" afterPath="$PROJECT_DIR$/out/production/Leetcode/Main.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LeetCodeSolution/Solution204.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LeetCodeSolution/Main.java" afterPath="$PROJECT_DIR$/src/LeetCodeSolution/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LeetCodeSolution/Solution507.java" afterPath="$PROJECT_DIR$/src/LeetCodeSolution/Solution507.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,51 +35,21 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCodeSolution/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution326.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LeetCodeSolution/Solution326.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NumArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCodeSolution/NumArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution507.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCodeSolution/Solution507.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution204.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCodeSolution/Solution204.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution345.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCodeSolution/Solution345.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -151,9 +119,10 @@
         <option value="$PROJECT_DIR$/src/JavaGrammer/AnimalFactory.java" />
         <option value="$PROJECT_DIR$/src/JavaGrammer/Main.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeSolution/Solution507.java" />
-        <option value="$PROJECT_DIR$/src/LeetCodeSolution/Main.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeSolution/NumArray.java" />
         <option value="$PROJECT_DIR$/src/LeetCodeSolution/Solution326.java" />
+        <option value="$PROJECT_DIR$/src/LeetCodeSolution/Main.java" />
+        <option value="$PROJECT_DIR$/src/LeetCodeSolution/Solution204.java" />
       </list>
     </option>
   </component>
@@ -197,6 +166,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCodeSolution" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -653,7 +640,7 @@
       <workItem from="1499999124636" duration="11904000" />
       <workItem from="1500020632719" duration="752000" />
       <workItem from="1500021406483" duration="273000" />
-      <workItem from="1500021751410" duration="609000" />
+      <workItem from="1500021751410" duration="1870000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1499154771038</created>
@@ -837,11 +824,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500021899341</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="update">
+      <created>1500022369981</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1500022369981</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41855000" />
+    <option name="totallyTimeSpent" value="43116000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -900,7 +894,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCodeSolution/Main.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="8" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -909,7 +911,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Solution165.java" />
     <entry file="file://$PROJECT_DIR$/src/Solution342.java" />
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/Solution151.java" />
@@ -1002,19 +1003,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCodeSolution/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeSolution/Solution326.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="300">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCodeSolution/Solution326.java">
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeSolution/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="150">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCodeSolution/Solution204.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
