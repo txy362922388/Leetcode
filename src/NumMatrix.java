@@ -1,5 +1,3 @@
-package DynamicProgramming;
-
 /**
  * Created by EVAN on 2017/7/13.
  */
