@@ -1,2 +1,2 @@
 # Leetcode
-Some leetcode solution QAQ
+Some Leetcode solution for practice :)
