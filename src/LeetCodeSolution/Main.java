@@ -1,9 +1,9 @@
-import LeetCodeSolution.Solution204;
+import LeetCodeSolution.*;
 
 public class Main {
     public static void main(String[] args) {
-        Solution204 a = new Solution204();
-        System.out.println(a.countPrimes(15));
+        Solution202 a = new Solution202();
+        System.out.println(a.isHappy(7));
 
     }
 }
