@@ -7,11 +7,19 @@ import java.util.Arrays;
  */
 public class Main {
     public static void main(String[] args) {
-        int[] a = {2,1,2,4,5,3,1,2,3,7,4,6,7,8,-1,-4,-2,-1,-5,9};
+        int[] a = new int[20];
+        for (int i = 0; i < a.length; i++) {
+            a[i] = (int)(-10 + Math.random() * 20);
+        }
+        System.out.println(Arrays.toString(a));
 //        QucikSort qs = new QucikSort();
 //        qs.quickSort(a,0,a.length - 1);
-        BubbleSort bs = new BubbleSort();
-        bs.bubbleSort(a);
+//        BubbleSort bs = new BubbleSort();
+//        bs.bubbleSort(a);
+//        InsetSort is = new InsetSort();
+//        is.insertSort(a);
+        ShellSort ss = new ShellSort();
+        ss.shellSort(a);
         System.out.println(Arrays.toString(a));
     }
 }
