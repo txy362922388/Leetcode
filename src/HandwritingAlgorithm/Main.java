@@ -10,8 +10,10 @@ public class Main {
         int[] a = {2,1,2,4,5,3,1,2,3,7,4,6,7,8,-1,-4,-2,-1,-5,9};
 //        QucikSort qs = new QucikSort();
 //        qs.quickSort(a,0,a.length - 1);
-        BubbleSort bs = new BubbleSort();
-        bs.bubbleSort(a);
+//        BubbleSort bs = new BubbleSort();
+//        bs.bubbleSort(a);
+        InsertSort is = new InsertSort();
+        is.insertSort(a);
         System.out.println(Arrays.toString(a));
     }
 }
